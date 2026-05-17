@@ -1,0 +1,9 @@
+section,metric,value
+monte_carlo,price,10.366837419338239
+monte_carlo,standard_error,0.053394322665418166
+monte_carlo,bs_price,10.450583572185565
+hedging,mean_pnl,-0.0020010691545542347
+hedging,std_pnl,0.6093516302104451
+stress,mean_pnl,-67.59556993018488
+stress,p05_pnl,-202.595101139125
+stress,expected_shortfall_5,-248.75405381904366

@@ -1,0 +1,8 @@
+section,metric,value
+monte_carlo,black_scholes_price,10.450583572185565
+monte_carlo,monte_carlo_price,10.444207652141602
+monte_carlo,monte_carlo_standard_error,0.0657997021570712
+hedging,hedge_mean_pnl,-0.001566006680921458
+hedging,hedge_std_pnl,0.6510538438224246
+stress,stress_p05_pnl,-534.5979790830493
+stress,expected_shortfall_5,-674.0650983660739

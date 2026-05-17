@@ -1,0 +1,4 @@
+instrument_id,strike,time_to_maturity,volatility,option_type,quantity
+0,95.0,0.5,0.22,call,-43.0
+1,100.0,1.0,0.2,call,2.0
+2,105.0,1.0,0.23,put,7.0
