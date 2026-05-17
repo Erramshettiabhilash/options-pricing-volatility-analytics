@@ -16,10 +16,9 @@ This repository grows step by step into a complete options pricing and volatilit
 - Professional visualization and reporting
 
 ## Current Status
+ The platform includes modular pricing, analytics, simulation, visualization, tests, project metadata, architecture documentation, sample data, and reproducible final demo outputs.
 
-Steps 1 through 14 are implemented. The platform includes modular pricing, analytics, simulation, visualization, tests, project metadata, architecture documentation, sample data, and reproducible final demo outputs.
 
-## Step 1: Project Setup
 
 ### Tools
 
@@ -118,3 +117,9 @@ results/final_demo/
 By completing this project, you can confidently say:
 
 > I implemented a complete options pricing and volatility analytics platform from scratch including Black-Scholes pricing, Greeks computation, Monte Carlo simulation, implied volatility estimation, volatility surfaces, SABR stochastic volatility modeling, dynamic hedging systems, options market making, and stress testing.
+
+
+
+REPOSITORY CLONE 
+
+https://github.com/Erramshettiabhilash/options-pricing-volatility-analytics
